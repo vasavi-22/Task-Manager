@@ -1,0 +1,15 @@
+h1{
+    margin: 0;
+    padding: 10px;
+    color : white;
+    background-color: var(--primary-color);
+    font-family:serif;
+}
+
+.tasks-content{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    /* grid-column-gap: 10px; */
+}
+
